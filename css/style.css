@@ -1,0 +1,15 @@
+.gray {
+    background-color:lightgray;
+}
+
+.white-bloc {
+    height: 500px;
+    width: 500px;
+    background-color:white;
+}
+.couleur-barre-violet {
+    height: 40px;
+    width: 400px;
+    background-color:lightpink;
+
+}
